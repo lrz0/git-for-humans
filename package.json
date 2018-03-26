@@ -1,6 +1,6 @@
 {
   "name": "git-for-humans",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Humanized wrapper for git",
   "main": "index.js",
   "bin": {
@@ -17,15 +17,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xreader/git-for-humans.git"
+    "url": "git+https://github.com/lrz0/git-for-humans.git"
   },
   "keywords": [
     "git"
   ],
-  "author": "xreader@gmail.com",
+  "author": "me@lirunze.xyz",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/xreader/git-for-humans/issues"
+    "url": "https://github.com/lrz0/git-for-humans/issues"
   },
-  "homepage": "https://github.com/xreader/git-for-humans#readme"
+  "homepage": "https://github.com/lrz0/git-for-humans"
 }
